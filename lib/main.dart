@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_utils_app/config/provider_manager.dart';
-import 'package:my_utils_app/config/router_mananger.dart';
+import 'package:my_utils_app/config/router_manager.dart';
 import 'package:oktoast/oktoast.dart';
 import 'package:provider/provider.dart';
 
